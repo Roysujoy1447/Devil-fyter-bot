@@ -12,13 +12,13 @@
 	"antiInbox": false,
 	"language": "en",
 	"notesLanguage": "change to your language with ISO 639-1 code, available languages: vi (Vietnamese), en (English)",
-	"nickNameBot": "DEVIL KA HU MDRXHOD",
-	"prefix": "-",
+	"nickNameBot": " 𖤇𓆩⃝⟶͇̽ Feelııngless  ⟶͇̽🪽",
+	"prefix": "+",
 	"adminOnly": {
 		"enable": true,
 		"ignoreCommand": []
 	},
-	"adminBot": [100037931553832],
+	"adminBot": [100056706608456],
 	"whiteListMode": {
 		"enable": false,
 		"whiteListIds": [],
